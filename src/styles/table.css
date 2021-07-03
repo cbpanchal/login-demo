@@ -1,0 +1,18 @@
+.table-container {
+  margin-top: 20px;
+  margin: auto;
+  padding: 20px;
+  border-collapse: separate;
+  border-spacing: 0;
+}
+
+thead tr th {
+  border: 1px solid #000;
+}
+tr {
+  border: 1px solid #beaaaf;
+}
+td {
+  border: 1px solid #000;
+  padding: 10px 30px;
+}
